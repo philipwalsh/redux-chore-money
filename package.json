@@ -1,0 +1,15 @@
+{
+  "name": "redux-chore-money",
+  "version": "1.0.0",
+  "description": "standalone redux sample",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Philip Walsh",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
